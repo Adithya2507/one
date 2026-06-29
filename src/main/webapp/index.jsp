@@ -756,20 +756,6 @@
         const PRODUCTS = [{
                
             {
-
-                id: 1A,
-                title: 'iPhone 16 Pro Max',
-                Opening_Sale_Price: 1299,
-                Price: 1499,
-                rating: 5,
-                reviews: 128,
-                badge: 'New',
-                img: 'https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=600&q=80',
-                category: 'phones'
-            },
-            {
-
-
                 id: 1,
                 title: 'iPhone 14 Pro Max',
                 price: 1099,
